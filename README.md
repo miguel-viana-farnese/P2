@@ -40,4 +40,4 @@ O faturamento total observado na base de dados é de $156.310,50, com um ticket 
 **Eficiência:** Os dados indicam que 40% dos livros geram 60% dos lucros da loja, e vice-versa.
 
 
-**Estratégia de Preço:** O preço do livro e o volume de vendas são inversamente proporcionais, demonstrando que livros com preços menores costumam ter maior volume de saída.e dos livros "Moby Dick", "O Morro dos Ventos Uivantes", "Dom Quixote" e "O Menino do Pijama Listrado", pois todos os títulos da mesma editora apresentam resultados abaixo do esperado[cite: 96].
+**Estratégia de Preço:** O preço do livro e o volume de vendas são inversamente proporcionais, demonstrando que livros com preços menores costumam ter maior volume de saída.e dos livros "Moby Dick", "O Morro dos Ventos Uivantes", "Dom Quixote" e "O Menino do Pijama Listrado", pois todos os títulos da mesma editora apresentam resultados abaixo do esperado.
