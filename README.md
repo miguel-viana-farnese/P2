@@ -1,45 +1,43 @@
 (ENGLISH)
 
 # Bookstore Sales Analysis
-[cite_start]This project presents an analysis of bookstore sales data, evaluating publisher performance, individual book metrics, and the correlation between pricing and sales volume[cite: 88, 94, 99, 112].
+This repository contains a detailed analysis of sales data from a bookstore, covering 4,340 total sales. The objective of this project is to identify key revenue drivers and understand the relationship between product pricing and sales performance.
 
-**Summary of Indicators**
-[cite_start]The total revenue generated is $156,310.50, based on 4,340 total sales[cite: 105, 108]. Key metrics are:
-* [cite_start]**Average Price per Book:** $52.10[cite: 106].
-* [cite_start]**Average Ticket:** $36.02[cite: 107].
+# Summary of Indicators
+The total revenue observed is $156,310.50, with an average ticket price of $36.02. The analysis is divided into the following main points:
 
-**Publisher Performance**
-* [cite_start]**High Revenue:** "Nihon Productions" (manga) and "Editora Alfa Ômega" (classic literature) lead in revenue, driven by a high average ticket[cite: 92].
-* [cite_start]**High Volume:** "Encanto Infantil" exhibits a high volume of product output, although the books have a lower unit value[cite: 93].
+# Publishing Performance
 
-**Pricing and Sales Strategy**
-* [cite_start]**Profit Distribution:** Data indicates that 40% of the books generate 60% of the store's profits, and vice-versa[cite: 104].
-* [cite_start]**Pricing Correlation:** There is an inverse relationship between a book's price and its sales volume[cite: 117].
-* [cite_start]**Individual Performance:** The collection "Jujutsu Kaisen" is the top-performing book overall, while "Escotismo para Rapazes" is the lowest performing[cite: 95].
+**Revenue Leaders:** Publishers "Nihon Productions" and "Alpha Omega" lead in revenue, driven by a higher average ticket price.
 
-**Strategic Recommendations**
-[cite_start]It is recommended to review the performance of "Moby Dick", "O Morro dos Ventos Uivantes", "Dom Quixote", and "O Menino do Pijama Listrado", as these titles from the same publisher are underperforming[cite: 96].
 
----
+**Volume vs. Price:** The publisher "Child Charm" maintains a high volume of product sales, despite their books having lower price points.
+
+# Sales Dynamics
+
+**Efficiency:** Data indicates that 40% of the books generate 60% of the store's revenue, and vice versa.
+
+
+**Pricing Strategy:** The sales volume and the unit price are inversely proportional, indicating that lower-priced books generally drive higher transaction volumes.
 
 (PORTUGUÊS)
 
-**Análise de Vendas de Livraria**
-[cite_start]Este projeto apresenta uma análise dos dados de vendas de uma livraria, avaliando o desempenho das editoras, métricas individuais de livros e a correlação entre o preço e o volume de vendas[cite: 88, 94, 99, 112].
+# Análise de Vendas: Livraria
+Este repositório contém uma análise detalhada sobre os dados de vendas de uma livraria, contabilizando um total de 4.340 vendas. O objetivo deste projeto é identificar os principais motores de receita e compreender a relação entre a precificação dos produtos e o volume de vendas.
 
-**Resumo dos Indicadores**
-[cite_start]O faturamento total gerado é de $156.310,50, com base em 4.340 vendas totais[cite: 105, 108]. As principais métricas são:
-* [cite_start]**Preço Médio por Livro:** $52,10[cite: 106].
-* [cite_start]**Ticket Médio:** $36,02[cite: 107].
+# Resumo dos Indicadores
+O faturamento total observado na base de dados é de $156.310,50, com um ticket médio de $36,02. A análise divide-se nos seguintes pontos principais:
 
-**Desempenho das Editoras**
-* [cite_start]**Alto Faturamento:** A "Nihon Productions" (mangás) e a "Editora Alfa Ômega" (literatura clássica) lideram em faturamento, impulsionadas por um ticket médio alto[cite: 92].
-* [cite_start]**Alto Volume:** A editora "Encanto Infantil" apresenta um alto volume de saída de produtos, embora seus livros tenham um valor unitário mais baixo[cite: 93].
+# Desempenho das Editoras
 
-**Estratégia de Preço e Vendas**
-* [cite_start]**Distribuição de Lucro:** Os dados indicam que 40% dos livros geram 60% dos lucros da loja, e vice-versa[cite: 104].
-* [cite_start]**Correlação de Preço:** Existe uma relação inversamente proporcional entre o preço do livro e o seu volume de vendas[cite: 117].
-* [cite_start]**Desempenho Individual:** A coleção "Jujutsu Kaisen" é o livro de melhor performance geral, enquanto "Escotismo para Rapazes" possui a pior performance[cite: 95].
+**Líderes em Receita:** As editoras "Nihon Productions" e "Editora Alfa Ômega" lideram em faturamento, impulsionadas por um ticket médio mais alto.
 
-**Recomendações Estratégicas**
-[cite_start]Recomenda-se revisar a performance dos livros "Moby Dick", "O Morro dos Ventos Uivantes", "Dom Quixote" e "O Menino do Pijama Listrado", pois todos os títulos da mesma editora apresentam resultados abaixo do esperado[cite: 96].
+
+**Volume vs. Preço:** A editora "Encanto Infantil" apresenta um volume alto de saída de produtos, embora seus livros tenham um valor unitário mais baixo.
+
+# Dinâmica de Vendas
+
+**Eficiência:** Os dados indicam que 40% dos livros geram 60% dos lucros da loja, e vice-versa.
+
+
+**Estratégia de Preço:** O preço do livro e o volume de vendas são inversamente proporcionais, demonstrando que livros com preços menores costumam ter maior volume de saída.e dos livros "Moby Dick", "O Morro dos Ventos Uivantes", "Dom Quixote" e "O Menino do Pijama Listrado", pois todos os títulos da mesma editora apresentam resultados abaixo do esperado[cite: 96].
